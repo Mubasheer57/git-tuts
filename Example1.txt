@@ -1,23 +1,10 @@
-hello World
-this is a dummy file
-<<<<<<< HEAD
-first change by dev1 - Final
-=======
-<<<<<<< HEAD
-dev2 modification
-=======
-first change by dev1
->>>>>>> origin/master
->>>>>>> origin/master
-
-Latest update by dev2
-
-Final Update by Dev1 - 6PM
-
-<<<<<<< HEAD
-pre-final updated by dev - this is not fun, so confusing
-=======
-Updates by copy1
-
-This is fun.. updating by dev2
->>>>>>> origin/master
+Hello Mubasheer
+connected to dev1 branch
+git merge origin/master
+git pull
+update example1 file
+save
+add example1 file to dev1
+commit changes
+push to remote
+validate
