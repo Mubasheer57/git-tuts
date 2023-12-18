@@ -9,3 +9,5 @@ dev2 modification
 first change by dev1
 >>>>>>> origin/master
 >>>>>>> origin/master
+
+Latest update by dev2
