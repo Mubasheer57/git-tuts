@@ -1,3 +1,7 @@
 hello World
 this is a dummy file
+<<<<<<< HEAD
+dev2 modification
+=======
 first change by dev1
+>>>>>>> origin/master
