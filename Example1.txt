@@ -14,4 +14,10 @@ Latest update by dev2
 
 Final Update by Dev1 - 6PM
 
+<<<<<<< HEAD
 pre-final updated by dev - this is not fun, so confusing
+=======
+Updates by copy1
+
+This is fun.. updating by dev2
+>>>>>>> origin/master
